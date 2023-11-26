@@ -1,3 +1,5 @@
+Python Script for Web Scraping and Automation
+
 Purpose of the Script:
 The purpose of this script is to scrape data from the Audi website and extract information about new cars. It retrieves the name, price, and link for website of image for each car and stores the data in a CSV file in order to organize it !
 
